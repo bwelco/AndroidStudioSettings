@@ -18,6 +18,10 @@
           <option name="url" value="https://git.oschina.net/weikechina/weikeAndroid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/navasmdc/MaterialDesignLibrary.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\" />
