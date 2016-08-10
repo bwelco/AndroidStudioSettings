@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="so" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping pattern="my_animation" type="XML" />
     </extensionMap>
   </component>
 </application>
