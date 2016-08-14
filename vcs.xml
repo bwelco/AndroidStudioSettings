@@ -30,6 +30,10 @@
           <option name="url" value="https://git.oschina.net/oschina/android-app" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bwelco/SumsungSearch" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\" />
