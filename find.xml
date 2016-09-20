@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'weikeHS'" />
-    <option name="defaultScopeName" value="Project 'weikeHS'" />
-    <option name="SEARCH_SCOPE" value="Project 'weikeHS'" />
+    <option name="customScope" value="File 'C:\AndroidProgramme\YouYou\app\src\main\java\com\bwelco\youyou\baichuan\diy\MyContactsUI.java'" />
+    <option name="defaultScopeName" value="File 'C:\AndroidProgramme\YouYou\app\src\main\java\com\bwelco\youyou\baichuan\diy\MyContactsUI.java'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\AndroidProgramme\YouYou\app\src\main\java\com\bwelco\youyou\baichuan\diy\MyContactsUI.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
