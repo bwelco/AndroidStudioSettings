@@ -50,8 +50,20 @@
           <option name="url" value="https://github.com/bwelco/SumsungSearch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.qima-inc.com/mobile_android/ServiceRouter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.qima-inc.com/mobile_android/ServiceRouter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.qima-inc.com" />
+          <option name="userName" value="fengguang" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\" />
+    <option name="cloneParentDir" value="/Applications/Android Studio.app" />
   </component>
 </application>
