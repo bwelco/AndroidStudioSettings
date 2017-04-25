@@ -3,7 +3,7 @@
     <property name="created">2017-04-25T18:18:48</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2.3.1.0</property>
-    <property name="modified">2017-04-25T18:22:22</property>
+    <property name="modified">2017-04-25T19:02:12</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -554,8 +554,7 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="d3423e" />
+        <option name="EFFECT_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -1767,7 +1766,8 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bc3f3c" />
+        <option name="BACKGROUND" value="ff0005" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
