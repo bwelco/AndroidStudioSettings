@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File 'C:\AndroidProgramme\YouYou\app\src\main\java\com\bwelco\youyou\baichuan\diy\MyContactsUI.java'" />
     <option name="defaultScopeName" value="File 'C:\AndroidProgramme\YouYou\app\src\main\java\com\bwelco\youyou\baichuan\diy\MyContactsUI.java'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File 'C:\AndroidProgramme\YouYou\app\src\main\java\com\bwelco\youyou\baichuan\diy\MyContactsUI.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
