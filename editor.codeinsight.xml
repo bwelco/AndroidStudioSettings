@@ -5,5 +5,7 @@
     <option name="JAVADOC_INFO_DELAY" value="100" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <EXCLUDED_PACKAGE NAME="android.database.Observable" />
+    <EXCLUDED_PACKAGE NAME="java.util.Observable" />
   </component>
 </application>
