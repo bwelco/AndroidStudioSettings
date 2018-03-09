@@ -4,7 +4,7 @@
     <property name="created">2017-12-05T18:20:40</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2017-12-11T14:48:56</property>
+    <property name="modified">2018-03-09T17:14:04</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -14,6 +14,11 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <attributes>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="3c3f41" />
@@ -21,8 +26,18 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="KOTLIN_CLASS">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
     <option name="KOTLIN_DOT">
       <value />
+    </option>
+    <option name="KOTLIN_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -31,7 +46,12 @@
     </option>
     <option name="KOTLIN_TRAIT">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -40,10 +60,15 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="dddddd" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="BACKGROUND" value="1e1e1e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
