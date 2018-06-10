@@ -3,29 +3,117 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/AndroidManifest.xml" timestamp="1528620578615">
-        <mark key="[" line="17" column="19" />
+      <file name="/Dummy.txt" timestamp="1528623685098">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/MainActivity.kt" timestamp="1528620410059">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="45" />
-        <mark key="^" line="13" column="45" />
-        <mark key="." line="13" column="45" />
+      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/MainActivity.kt" timestamp="1528623636147">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="41" column="7" />
+        <mark key="." line="41" column="7" />
+        <mark key="^" line="41" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/VPNService.kt" timestamp="1528620533526">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="29" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="4" column="29" />
+      <file name="$USER_HOME$/AndroidProjects/EnvProxy/app/src/main/java/com/youzan/envproxy/MainActivity.kt" timestamp="1528623573583" />
+      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/VpnService.kt" timestamp="1528623537019">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="28" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidProjects/shadowsocks-android/mobile/src/main/AndroidManifest.xml" timestamp="1528621432010" />
+      <file name="$USER_HOME$/AndroidProjects/shadowsocks-android/mobile/src/main/java/com/github/shadowsocks/database/Profile.kt" timestamp="1528624086291" />
+      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/AndroidManifest.xml" timestamp="1528621414698">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/VpnService.java" timestamp="1528624331796" />
+      <file name="$USER_HOME$/AndroidProjects/EnvProxy/app/src/main/java/com/youzan/envproxy/ProxyService.kt" timestamp="1528624147117">
+        <mark key="[" line="74" column="42" />
+        <mark key="]" line="74" column="41" />
+        <mark key="^" line="74" column="41" />
+        <mark key="." line="74" column="41" />
+      </file>
+      <file name="$USER_HOME$/AndroidProjects/shadowsocks-android/mobile/src/main/java/com/github/shadowsocks/bg/GuardedProcessPool.kt" timestamp="1528625255387" />
+      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/VPNService.kt" timestamp="1528621444485">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/AndroidProjects/shadowsocks-android/mobile/src/main/java/com/github/shadowsocks/bg/VpnService.kt" timestamp="1528625275841">
+        <mark key="'" line="67" column="66" />
+      </file>
+      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/ProxyService.kt" timestamp="1528624935398">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="0" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="41" column="0" filename="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/MainActivity.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/MainActivity.kt" />
+      <jump line="67" column="66" filename="$USER_HOME$/AndroidProjects/shadowsocks-android/mobile/src/main/java/com/github/shadowsocks/bg/VpnService.kt" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRDb25maWd1cmVJbnRlbnQoTWFpbkFjdGl2aXR5LnBlbmRpbmdJbnRlbnQodGhpcykpCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>st</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGludGVudCA9IEludGVudCh0aGlzLCBQcm94eVNlcnZpY2U6OmNsYXNzLmphdmEpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKFByb3h5U2VydmljZS5DT01NQU5ELCBQcm94eVNlcnZpY2UuU1RBUlRfQ09NTUFORCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dENvbXBhdC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKHRoaXMsIGludGVudClkCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ueW91emFuLm1vYmlsZS5wcm94eQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dENvbXBhdC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKHRoaXMsIGludGVudClkCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>{
+
+            }</text>
+      </register>
+      <register name="9" type="4">
+        <text>const val START_COMMAND = &quot;start&quot;
+        const val STOP_COMMAND = &quot;stop&quot;</text>
+      </register>
+      <register name="-" type="4">
+        <text>st</text>
+      </register>
+      <register name="/" type="4">
+        <text>builder</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>builder</last-search>
+      <last-offset />
+      <last-pattern>builder</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>builder</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
