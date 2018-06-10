@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1528623685098">
@@ -13,29 +13,24 @@
         <mark key="." line="41" column="7" />
         <mark key="^" line="41" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidProjects/EnvProxy/app/src/main/java/com/youzan/envproxy/MainActivity.kt" timestamp="1528623573583" />
       <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/VpnService.kt" timestamp="1528623537019">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="6" />
         <mark key="^" line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidProjects/shadowsocks-android/mobile/src/main/AndroidManifest.xml" timestamp="1528621432010" />
-      <file name="$USER_HOME$/AndroidProjects/shadowsocks-android/mobile/src/main/java/com/github/shadowsocks/database/Profile.kt" timestamp="1528624086291" />
       <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/AndroidManifest.xml" timestamp="1528621414698">
         <mark key="[" line="20" column="42" />
         <mark key="]" line="18" column="7" />
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/VpnService.java" timestamp="1528624331796" />
       <file name="$USER_HOME$/AndroidProjects/EnvProxy/app/src/main/java/com/youzan/envproxy/ProxyService.kt" timestamp="1528624147117">
         <mark key="[" line="74" column="42" />
         <mark key="]" line="74" column="41" />
         <mark key="^" line="74" column="41" />
         <mark key="." line="74" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidProjects/shadowsocks-android/mobile/src/main/java/com/github/shadowsocks/bg/GuardedProcessPool.kt" timestamp="1528625255387" />
       <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/VPNService.kt" timestamp="1528621444485">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="5" column="29" />
@@ -109,6 +104,9 @@
       <history-search>
         <entry>builder</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
