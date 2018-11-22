@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1528623685098">
@@ -31,11 +31,11 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidProjects/proxydroid/proxy/src/main/java/me/bwelco/new/client/ProxyClient.kt" timestamp="1542873236342">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/AndroidProjects/proxydroid/proxy/src/main/java/me/bwelco/new/client/ProxyClient.kt" timestamp="1542875420761">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/VPNService.kt" timestamp="1528621444485">
         <mark key="[" line="6" column="0" />
@@ -59,32 +59,32 @@
       <jump line="67" column="66" filename="$USER_HOME$/AndroidProjects/shadowsocks-android/mobile/src/main/java/com/github/shadowsocks/bg/VpnService.kt" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAKCiAgICB9CgogICAgZnVuIHNodXREb3duKCkgewogICAgICAgIGlmICghaXNTdGFydGVkKSB7IHJldHVybiB9CiAgICAgICAgaXNTdGFydGVkID0gZmFsc2UKCiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRDb25maWd1cmVJbnRlbnQoTWFpbkFjdGl2aXR5LnBlbmRpbmdJbnRlbnQodGhpcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGludGVudCA9IEludGVudCh0aGlzLCBQcm94eVNlcnZpY2U6OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKFByb3h5U2VydmljZS5DT01NQU5ELCBQcm94eVNlcnZpY2UuU1RBUlRfQ09NTUFORCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAKCiAgICB9CgogICAgZnVuIHNodXREb3duKCkgewogICAgICAgIGlmICghaXNTdGFydGVkKSB7IHJldHVybiB9CiAgICAgICAgaXNTdGFydGVkID0gZmFsc2UKCiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dENvbXBhdC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKHRoaXMsIGludGVudClkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRDb25maWd1cmVJbnRlbnQoTWFpbkFjdGl2aXR5LnBlbmRpbmdJbnRlbnQodGhpcykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ueW91emFuLm1vYmlsZS5wcm94eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGludGVudCA9IEludGVudCh0aGlzLCBQcm94eVNlcnZpY2U6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKFByb3h5U2VydmljZS5DT01NQU5ELCBQcm94eVNlcnZpY2UuU1RBUlRfQ09NTUFORCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dENvbXBhdC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKHRoaXMsIGludGVudClkCg==</text>
