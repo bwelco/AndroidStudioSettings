@@ -1,10 +1,16 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1528623685098">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/AndroidManifest.xml" timestamp="1528621414698">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/MainActivity.kt" timestamp="1528623636147">
         <mark key="'" line="20" column="0" />
@@ -13,23 +19,23 @@
         <mark key="." line="41" column="7" />
         <mark key="^" line="41" column="7" />
       </file>
+      <file name="$USER_HOME$/AndroidProjects/EnvProxy/app/src/main/java/com/youzan/envproxy/ProxyService.kt" timestamp="1528624147117">
+        <mark key="[" line="74" column="42" />
+        <mark key="]" line="74" column="41" />
+        <mark key="^" line="74" column="41" />
+        <mark key="." line="74" column="41" />
+      </file>
       <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/VpnService.kt" timestamp="1528623537019">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="6" />
         <mark key="^" line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/AndroidManifest.xml" timestamp="1528621414698">
-        <mark key="[" line="20" column="42" />
-        <mark key="]" line="18" column="7" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="18" column="7" />
-      </file>
-      <file name="$USER_HOME$/AndroidProjects/EnvProxy/app/src/main/java/com/youzan/envproxy/ProxyService.kt" timestamp="1528624147117">
-        <mark key="[" line="74" column="42" />
-        <mark key="]" line="74" column="41" />
-        <mark key="^" line="74" column="41" />
-        <mark key="." line="74" column="41" />
+      <file name="$USER_HOME$/AndroidProjects/proxydroid/proxy/src/main/java/me/bwelco/new/client/ProxyClient.kt" timestamp="1542873236342">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/VPNService.kt" timestamp="1528621444485">
         <mark key="[" line="6" column="0" />
@@ -54,40 +60,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRDb25maWd1cmVJbnRlbnQoTWFpbkFjdGl2aXR5LnBlbmRpbmdJbnRlbnQodGhpcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>st</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGludGVudCA9IEludGVudCh0aGlzLCBQcm94eVNlcnZpY2U6OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAKCiAgICB9CgogICAgZnVuIHNodXREb3duKCkgewogICAgICAgIGlmICghaXNTdGFydGVkKSB7IHJldHVybiB9CiAgICAgICAgaXNTdGFydGVkID0gZmFsc2UKCiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKFByb3h5U2VydmljZS5DT01NQU5ELCBQcm94eVNlcnZpY2UuU1RBUlRfQ09NTUFORCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRDb25maWd1cmVJbnRlbnQoTWFpbkFjdGl2aXR5LnBlbmRpbmdJbnRlbnQodGhpcykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dENvbXBhdC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKHRoaXMsIGludGVudClkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGludGVudCA9IEludGVudCh0aGlzLCBQcm94eVNlcnZpY2U6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ueW91emFuLm1vYmlsZS5wcm94eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKFByb3h5U2VydmljZS5DT01NQU5ELCBQcm94eVNlcnZpY2UuU1RBUlRfQ09NTUFORCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dENvbXBhdC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKHRoaXMsIGludGVudClkCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-
-            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ueW91emFuLm1vYmlsZS5wcm94eQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>const val START_COMMAND = &quot;start&quot;
-        const val STOP_COMMAND = &quot;stop&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dENvbXBhdC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKHRoaXMsIGludGVudClkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>st</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>builder</text>
@@ -111,6 +114,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
