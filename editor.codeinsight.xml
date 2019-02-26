@@ -9,5 +9,7 @@
     <EXCLUDED_PACKAGE NAME="android.database.Observable" />
     <EXCLUDED_PACKAGE NAME="java.util.Observable" />
     <EXCLUDED_PACKAGE NAME="java.util.Observer" />
+    <EXCLUDED_PACKAGE NAME="kotlin.comparisons" />
+    <EXCLUDED_PACKAGE NAME="nullsFirst" />
   </component>
 </application>
