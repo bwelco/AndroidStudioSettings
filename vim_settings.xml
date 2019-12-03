@@ -1,116 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="/Dummy.txt" timestamp="1528623685098">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/AndroidManifest.xml" timestamp="1528621414698">
-        <mark key="[" line="20" column="42" />
-        <mark key="]" line="18" column="7" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="18" column="7" />
-      </file>
-      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/MainActivity.kt" timestamp="1528623636147">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="41" column="7" />
-        <mark key="." line="41" column="7" />
-        <mark key="^" line="41" column="7" />
-      </file>
-      <file name="$USER_HOME$/AndroidProjects/EnvProxy/app/src/main/java/com/youzan/envproxy/ProxyService.kt" timestamp="1528624147117">
-        <mark key="[" line="74" column="42" />
-        <mark key="]" line="74" column="41" />
-        <mark key="^" line="74" column="41" />
-        <mark key="." line="74" column="41" />
-      </file>
-      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/VpnService.kt" timestamp="1528623537019">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="28" column="15" />
-      </file>
-      <file name="$USER_HOME$/AndroidProjects/proxydroid/proxy/src/main/java/me/bwelco/new/client/ProxyClient.kt" timestamp="1542875420761">
-        <mark key="[" line="8" column="54" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="7" />
-      </file>
-      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/VPNService.kt" timestamp="1528621444485">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-      </file>
-      <file name="$USER_HOME$/AndroidProjects/shadowsocks-android/mobile/src/main/java/com/github/shadowsocks/bg/VpnService.kt" timestamp="1528625275841">
-        <mark key="'" line="67" column="66" />
-      </file>
-      <file name="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/ProxyService.kt" timestamp="1528624935398">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="56" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/MainActivity.kt" />
-      <jump line="20" column="0" filename="$USER_HOME$/AndroidProjects/zanproxy-android/app/src/main/java/com/youzan/mobile/proxy/MainActivity.kt" />
-      <jump line="67" column="66" filename="$USER_HOME$/AndroidProjects/shadowsocks-android/mobile/src/main/java/com/github/shadowsocks/bg/VpnService.kt" />
-    </jumps>
-    <registers>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAKCiAgICB9CgogICAgZnVuIHNodXREb3duKCkgewogICAgICAgIGlmICghaXNTdGFydGVkKSB7IHJldHVybiB9CiAgICAgICAgaXNTdGFydGVkID0gZmFsc2UKCiAgICB9Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRDb25maWd1cmVJbnRlbnQoTWFpbkFjdGl2aXR5LnBlbmRpbmdJbnRlbnQodGhpcykpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGludGVudCA9IEludGVudCh0aGlzLCBQcm94eVNlcnZpY2U6OmNsYXNzLmphdmEpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKFByb3h5U2VydmljZS5DT01NQU5ELCBQcm94eVNlcnZpY2UuU1RBUlRfQ09NTUFORCkK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udGV4dENvbXBhdC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKHRoaXMsIGludGVudClkCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>!</text>
-      </register>
-      <register name="/" type="4">
-        <text>builder</text>
-      </register>
-    </registers>
-    <search>
-      <last-search>builder</last-search>
-      <last-offset />
-      <last-pattern>builder</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry>builder</entry>
-      </history-search>
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="false" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 6</text>
@@ -122,5 +12,10 @@
         <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
