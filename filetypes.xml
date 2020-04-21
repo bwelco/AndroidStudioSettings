@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="zanaccount_seekbar_thumb" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
     </extensionMap>
