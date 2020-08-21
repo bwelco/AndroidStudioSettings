@@ -6,8 +6,10 @@
   </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="ActivateProjectToolWindow" />
+  <action id="ActivateTODOToolWindow" />
   <action id="Arrangement.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
