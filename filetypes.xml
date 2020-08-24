@@ -5,6 +5,7 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="ToptitleFilterData.dart" type="PLAIN_TEXT" />
       <mapping pattern="zanaccount_seekbar_thumb" type="PLAIN_TEXT" />
       <mapping pattern="BDAppFilterWidget" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
