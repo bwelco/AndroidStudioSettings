@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="BasePageState.dart" type="Dart" />
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -8,7 +9,6 @@
       <mapping pattern="zanaccount_seekbar_thumb" type="PLAIN_TEXT" />
       <mapping pattern="BDAppFilterWidget" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping pattern="BasePageState.dart" type="Dart" />
     </extensionMap>
   </component>
 </application>
